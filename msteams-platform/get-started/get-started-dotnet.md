@@ -44,6 +44,7 @@ To complete this tutorial, you need to get the following tools:
 
 * [Install Git](https://git-scm.com/downloads)
 * [Install Visual Studio 2017](https://www.visualstudio.com/downloads/). You can install the free community edition.
+* Install IIS Management Console Windows Feature
 
 If you see an option to add `git` to the PATH during installation, choose to do so. It will be handy.
 
